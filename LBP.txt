@@ -1,0 +1,20 @@
+1)Create a program to convert Celcius into Fahrenheit.
+2)Program to convert Fahrenheit into Celcius.
+3)Program to calculate the area of circle.
+4)program to find volume of sphere.
+5)Program to find the roots of quadratic equation.
+6)program to find the length of Hypotenuse in a right angled triangle using pythagoras theorem.
+7)Program to find the area of trapezoid using the formula A=((a+b)/2)*h.
+8)Program to find perimeter of rectangle.
+9)Program to find volume of cylinder.
+10)Program to find the sum of first N natural numbers.
+11)Program to find the area of equilateral triangle.
+12)program to calculate percentage of marks obtained by a student. take marks obtained and total marks as input.
+13)program to calculate the kinetic energy. take mass and velocity as input.
+14)Program to find the sum of the squares of the first N natural numbers.
+15)Program to find the volume of the cone.
+16)Program to convert lengths between units like meters to feet , kilometers to miles.
+17)Program to calculate the volume of pyramid.
+18)Program to find the area of triangle. Formula = root(s*s-a*s-b*s-c).
+19)program to display HELLO WORLD.
+20)Program to print an integer entered by user.
